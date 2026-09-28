@@ -62,3 +62,4 @@
     //setlocale() data_default_timerone_Set() IDIOMA I ZONA HORARIA PER A AQUEST SCRIPT
     
     ?>
+    
